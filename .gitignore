@@ -1,0 +1,4 @@
+out/
+*.Class
+*.log
+license.txt
